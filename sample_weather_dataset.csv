@@ -1,0 +1,13 @@
+state,city,date,temperature,humidity,rainfall,wind_speed,pressure,weather_condition
+Andhra Pradesh,Visakhapatnam,2026-01-15,26.3,79.1,41.0,17.8,1011.2,Cloudy
+Andhra Pradesh,Visakhapatnam,2026-02-15,28.3,47.1,20.9,4.5,1003.8,Sunny
+Andhra Pradesh,Visakhapatnam,2026-03-15,29.4,53.6,7.5,19.2,1016.7,Sunny
+Andhra Pradesh,Visakhapatnam,2026-04-15,27.6,87.9,24.8,5.1,1013.7,Cloudy
+Andhra Pradesh,Visakhapatnam,2026-05-15,34.3,48.9,47.9,21.2,999.8,Sunny
+Andhra Pradesh,Visakhapatnam,2026-06-15,29.6,82.6,30.4,15.5,1002.1,Cloudy
+Arunachal Pradesh,Itanagar,2026-01-15,20.1,85.2,0,6.5,1013.7,Cloudy
+Arunachal Pradesh,Itanagar,2026-02-15,30.4,84.3,35.9,4.3,1003.6,Cloudy
+Arunachal Pradesh,Itanagar,2026-03-15,19.7,76.6,0,10.7,1012.8,Cloudy
+Arunachal Pradesh,Itanagar,2026-04-15,34.1,53.0,65.1,14.0,1017.0,Rainy
+Arunachal Pradesh,Itanagar,2026-05-15,29.4,58.5,51.2,7.5,1008.9,Sunny
+Arunachal Pradesh,Itanagar,2026-06-15,29.8,67.5,89.9,6.3,1010.1,Rainy
